@@ -2,7 +2,7 @@
 
 
 ## Days 16-24: Starting SwiftUI
-  - Now that you’ve mastered the basics of Swift, in these days you’ll start building real SwiftUI apps using what you learned.
+> Now that you’ve mastered the basics of Swift, in these days you’ll start building real SwiftUI apps using what you learned.
 
  * Day 16 – Project 1, part one
  * Day 17 – Project 1, part two
